@@ -1,2 +1,2 @@
 # PV_Ruby
-Projet validant - Exercices Ruby
+Projet Validant - Ruby (Basics 1/2)
